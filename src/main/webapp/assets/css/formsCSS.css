@@ -1,0 +1,351 @@
+@charset "ISO-8859-1";
+body
+{
+    background-image : url("/Users/chanithirasnakawewa/Desktop/oop/background.jpg");
+    background-position-x:center;
+    background-position-y:center;
+    background-attachment : fixed;
+    background-repeat: inherit;
+    
+}    
+
+fieldset
+{
+    margin-top :250px;
+    margin-right:400px;
+    margin-bottom: 150px;
+    margin-left:400px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    background-image:url("/Users/chanithirasnakawewa/Desktop/oop/newF2.jpg");
+    border-image-repeat: repeat;
+    background-attachment : fixed;
+    background-repeat:no-repeat;
+    border:2px;
+    border-style:double;
+    border-radius:12px;    
+}
+
+#fieldsetMsg
+{
+    margin-top :250px;
+    margin-right:600px;
+    margin-bottom: 150px;
+    margin-left:600px;
+    padding-top: -10px;
+    padding-left:-10px;
+    padding-bottom: -500px;
+    background-image:url("/Users/chanithirasnakawewa/Desktop/oop/newF2.jpg");
+    border-image-repeat: repeat;
+    background-attachment : fixed;
+    background-repeat:no-repeat;
+    border:2px;
+    border-style:double;
+    border-radius:12px;    
+}
+
+
+#docDFieldset
+{
+    margin-top :150px;
+    margin-right:400px;
+    margin-bottom: 150px;
+    margin-left:400px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    background-image:url("/Users/chanithirasnakawewa/Desktop/oop/newF2.jpg");
+    border-image-repeat: repeat;
+    background-attachment : fixed;
+    background-repeat:no-repeat;
+    border:2px;
+    border-style:double;
+    border-radius:12px;    
+}
+
+#fieldsetSummery
+{
+    margin-top :350px;
+    margin-right:400px;
+    margin-bottom: 50px;
+    margin-left:350px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+    background-image:url("/Users/chanithirasnakawewa/Desktop/oop/newF2.jpg");
+    border-image-repeat: repeat;
+    background-attachment : fixed;
+    background-repeat:no-repeat;
+    border:2px;
+    border-style:double;
+    border-radius:12px;    
+}
+
+#fieldsetDList
+{
+    margin-top :100px;
+    margin-right:400px;
+    margin-bottom: 150px;
+    margin-left:300px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    background-image:url("/Users/chanithirasnakawewa/Desktop/oop/newF2.jpg");
+    border-image-repeat: repeat;
+    background-attachment : fixed;
+    background-repeat:no-repeat;
+    border:2px;
+    border-style:double;
+    border-radius:12px;    
+}
+
+#fieldsetUpdate
+{
+    margin-top :100px;
+    margin-right:400px;
+    margin-bottom: 150px;
+    margin-left:300px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    background-image:url("/Users/chanithirasnakawewa/Desktop/oop/newF2.jpg");
+    border-image-repeat: repeat;
+    background-attachment : fixed;
+    background-repeat:no-repeat;
+    border:2px;
+    border-style:double;
+    border-radius:12px;    
+}
+
+input
+{
+    border-style: double;
+    border-color:dimgray;
+    border-radius:8px;
+    width:50%;
+    margin-left: 50px;
+    margin-right: 50px;
+    height:25px;
+    font-size:15px;
+}
+
+#inputCID
+{
+    border-style: double;
+    border-color:dimgray;
+    border-radius:8px;
+    width:50%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    height:25px;
+    font-size:15px;
+}
+
+#sbmt
+{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    border-radius : 8px;
+    position :sticky;
+    right:100px;
+    font-weight:bold;
+    width:200px;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-top : 10px;
+    padding-bottom : 25px;
+    font-size : 13px;
+    margin-bottom:20px;
+}
+
+#sbmtCreateDelete
+{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    border-radius : 8px;
+    position :sticky;
+    right:100px;
+    font-weight:bold;
+    width:200px;
+    margin-left: 200px;
+    margin-top: 20px;
+    padding-top : 10px;
+    padding-bottom : 25px;
+    font-size : 13px;
+    margin-bottom:20px;
+}
+
+#sbmtDID
+{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    border-radius : 8px;
+    position :sticky;
+    right:100px;
+    font-weight:bold;
+    width:200px;
+    margin-left: 300px;
+    margin-right: 100px;
+    margin-top: 20px;
+    padding-top : 10px;
+    padding-bottom : 25px;
+    font-size : 13px;
+    margin-bottom:20px;
+}
+#sbmtUpdate
+{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    border-radius : 8px;
+    position :sticky;
+    right:100px;
+    font-weight:bold;
+    width:200px;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 20px;
+    padding-top : 10px;
+    padding-bottom : 30px;
+    font-size : 13px;
+    margin-bottom:20px;
+}
+#sbmtCID
+{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    border-radius : 8px;
+    position :sticky;
+    right:100px;
+    font-weight:bold;
+    width:200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    padding-top : 10px;
+    padding-bottom : 25px;
+    font-size : 13px;
+    margin-bottom:10px;
+}
+#sbmtUpdateDelete
+{
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    border-radius : 8px;
+    position :sticky;
+    right:100px;
+    font-weight:bold;
+    width:200px;
+    margin-left: 350px;
+    margin-right: 50px;
+    margin-top: -100px;
+    padding-top : 10px;
+    padding-bottom : 25px;
+    font-size : 13px;
+    margin-bottom:20px;
+}
+
+#sbmtCreateDelete:hover
+{
+    background-color: black;
+    color : white;
+}
+
+#sbmtUpdate:hover
+{
+    background-color: black;
+    color : white;
+}
+#sbmtDID:hover
+{
+    background-color: black;
+    color : white;
+}
+
+#sbmtCID:hover
+{
+    background-color: black;
+    color : white;
+}
+#sbmtUpdateDelete:hover
+{
+    background-color: black;
+    color : white;
+}
+
+#sbmt:hover
+{
+    background-color: black;
+    color : white;
+}
+
+a
+{
+    color :black;
+    font-weight : bold;
+    margin-left : 50px;
+}
+
+#h1Msg
+{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: -5000px;
+    padding-right: -1000px;
+}
+
+h2
+{
+    font-family :Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color : black;
+    font-weight : bold;
+    text-align : center;
+    margin-top: 20px;
+}
+
+#tble
+{
+    
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    vertical-align: middle;
+}
+
+h4
+{
+    font-family : arial;
+    color :navy;
+    font-weight : bold;
+    text-align :center;
+    margin-top : 10px;
+}
+
+a
+{
+    color :palevioletred;
+    text-align :center;
+}
+
+img
+{
+    margin-left : 50px;
+    margin-right : 50px;
+    width:fit-content;
+}

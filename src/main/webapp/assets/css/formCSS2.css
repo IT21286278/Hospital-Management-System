@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+h2
+{
+    text-align : center;
+    font-size : 40px;
+    font-family: cursive;
+    color :dimgray;
+    margin-top: -10px;
+}
+
+p
+{
+    padding-left : 50px;
+    font-size:25px;
+    color:dimgray;
+    font-weight:bold;
+}
+
+input
+{
+    border-style: double;
+    border-color:dimgray;
+    border-radius:8px;
+    width:50%;
+    margin-left: 50px;
+    height:25px;
+    font-size:15px;
+}
+
+a
+{
+    color :black;
+    font-weight : bold;
+    margin-left : 50px;
+}
+
